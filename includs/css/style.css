@@ -1,0 +1,81 @@
+    * {
+      box-sizing: border-box;
+           }
+    .test1 {
+        color: crimson;
+        background-color: darkseagreen
+      }
+      table,
+        th
+        td  {
+        border: 1px solid black; 
+      }
+      th,
+      td {
+        color: white;
+        background-color: rgb(255, 0, 0);
+        text-align: center;
+      }
+      .task {
+        display: flex;
+        justify-content: space-between;
+        color: white;
+        background-image: url(https://videohive.img.customer.envatousercontent.com/files/6fbe71c7-ce64-4bf9-b915-5c0288277e61/inline_image_preview.jpg?auto=compress%2Cformat&fit=crop&crop=top&max-h=8000&max-w=590&s=182dfbb526e481797c07c1aee5066102);
+      }
+      .task7 {
+        background-color: salmon;
+        width: 100%;
+        height: 65px;
+        border: 1px solid;
+        overflow:auto ;
+      }
+      /* new */
+       .task3 {
+        display: inline-block;
+        font-size: 30px;
+        margin-left: 80px;
+        padding-left: 20px;
+        background-image: url 
+        /* new--რატომ არ იშლება ანდერლინი ტექსტ დეკორეიშენით?*/
+               }   
+
+         .task4 {
+                   display: flex;
+          color: deeppink;
+          justify-content: center;
+          margin-bottom: 1%;
+          padding-right: 88%;
+        }  
+      .fa-brands  {
+     width: 500px;
+     color: rgb(248, 9, 49);
+     text-align: center;
+     font-size: larger;
+     }
+     /*NEW ლინკები ჩავამატე */
+     .task5 {
+      float: left ;
+      width: 250px;
+      height: 250px;
+      }
+      .task0   {
+      font-size: larger;
+      color: rgb(10, 10, 10)
+         }
+      /*NEW დასამუშავებელი */
+      .task6 {
+        width: 800px;
+        margin-top: 8px;
+        margin-left: auto;
+        margin-right: auto;
+        background-color: rgb(238, 9, 9);
+        text-align: center;
+        font-size: larger;
+        color: white;
+        border: solid 8px;
+      }
+      a:link {
+        text-decoration: none;
+      }
+      /* NEW  */
+/* mainteresebs box-sizing:border-box; */
