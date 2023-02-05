@@ -79,3 +79,19 @@
       }
       /* NEW  */
 /* mainteresebs box-sizing:border-box; */
+
+.test {
+  color: red;
+}
+
+/* 
+   
+git status  // ამოწმებს რეპოზიტორის მდგომარეობას და ცვლილებებს
+git add .   // ატვირთავს ყველა შეცვლილ მნიშვენლობებს 
+git commit -m  "tets commit"  // აკმიტებს,  გვჭირდება იმისთვის რომ მივხვდეთ ცვლილების სახელით ცვლილებას.
+git push origin master  // ატანას,  github შეცვლილი ინფორმაცია 
+
+git pull origin master // ჩაოტვირთავს ახალ რეპოზიტორს
+
+
+ */
